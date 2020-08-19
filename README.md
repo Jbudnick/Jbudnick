@@ -26,16 +26,14 @@
 [<img align="left" alt="Windows" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/windows.svg" />][icons]
 [<img align="left" alt="Mac" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/apple.svg" />][icons]
 <br />
-
----
+=======
 
 <details>
     <summary>Recent Github Activity</summary>
     <!--START_SECTION:activity-->
 </details>
 <br />
-
----
+=======
 
 <details>
   <summary>Github Stats</summary>
