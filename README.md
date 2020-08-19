@@ -31,6 +31,7 @@
     <summary>Recent Github Activity</summary>
     <!--START_SECTION:activity-->
 </details>
+<br />
 =======
 <details>
   <summary>Github Stats</summary>
