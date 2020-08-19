@@ -25,7 +25,19 @@
 [<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][icons]
 [<img align="left" alt="Windows" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/windows.svg" />][icons]
 [<img align="left" alt="Mac" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/apple.svg" />][icons]
+<<<<<<< HEAD
 <br />
+=======
+
+---
+<details>
+    <summary>Recent Github Activity</summary>
+</details>
+
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com//Jbudnick/COVID-19-Colorado-Hispanic-Disparity/pull/1) in [Jbudnick/COVID-19-Colorado-Hispanic-Disparity](https://github.com//Jbudnick/COVID-19-Colorado-Hispanic-Disparity)
+<!--END_SECTION:activity-->
+>>>>>>> d3331a5fdb49113a1e880b67b737df3894d0ce65
 ---
 <details>
   <summary>Github Stats</summary>
