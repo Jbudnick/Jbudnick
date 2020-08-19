@@ -27,14 +27,11 @@
 [<img align="left" alt="Mac" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/apple.svg" />][icons]
 <br />
 =======
-
----
 <details>
     <summary>Recent Github Activity</summary>
     <!--START_SECTION:activity-->
 </details>
-
----
+=======
 <details>
   <summary>Github Stats</summary>
     <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=jbudnick&show_icons=true&count_private=true" />
@@ -44,7 +41,7 @@
 [linkedin]: https://www.linkedin.com/in/jacobbudnick/
 [codewars]: https://www.codewars.com/users/Jbud/
 [Tableau]: https://public.tableau.com/profile/jacob.budnick#!/
-[email]: Jbudnick5@gmail.com
+[email]: mailto:Jbudnick5@gmail.com
 
 <!--
 **Jbudnick/Jbudnick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
