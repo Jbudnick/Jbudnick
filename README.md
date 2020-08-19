@@ -33,7 +33,6 @@
     <!--START_SECTION:activity-->
 </details>
 <br />
-=======
 
 <details>
   <summary>Github Stats</summary>
