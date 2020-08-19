@@ -1,12 +1,10 @@
 ### Connect with me:
-[<img align="left" alt="Jbudnick5@gmail.com" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" />][Jbudnick5@gmail.com]
+[<img align="left" alt="Jbudnick5@gmail.com" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" />][email]
 [<img align="left" alt="Jbudnick | LinkedIn" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Jacob.Budnick | Tableau" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/tableau.svg" />][Tableau]
 [<img align="left" alt="Jbud | Codewars" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/codewars.svg" />][codewars]
-
-
+<br />
 ### Languages and Tools:
-
 [<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/python.svg" />][icons]
 [<img align="left" alt="Pandas" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/pandas.svg" />][icons]
 [<img align="left" alt="Tableau" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/tableau.svg" />][Tableau]
@@ -14,37 +12,31 @@
 [<img align="left" alt="AWS" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/amazonaws.svg" />][icons]
 [<img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/docker.svg" />][icons]
 [<img align="left" alt="Flask" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/flask.svg" />][icons]
-
-<br>
+<br />
 [<img align="left" alt="SQL" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/microsoftexcel.svg" />][icons]
 [<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][icons]
 [<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][icons]
 [<img align="left" alt="SQLite" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/sqlite.svg" />][icons]
 [<img align="left" alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/postgresql.svg" />][icons]
 [<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][icons]
-<br>
+<br />
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][icons]
 [<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][icons]
 [<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][icons]
 [<img align="left" alt="Windows" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/windows.svg" />][icons]
 [<img align="left" alt="Mac" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/apple.svg" />][icons]
-
----
-<details>
-    <summary>Recent Github Activity</summary>
-</details>
-
-<!--START_SECTION:activity-->
+<br />
 ---
 <details>
   <summary>Github Stats</summary>
-    ![Github Stats](https://github-readme-stats.vercel.app/api?username=jbudnick&show_icons=true&count_private=true)
+    <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=jbudnick&show_icons=true&count_private=true" />
 </details>
 
 [icons]: https://cdn.jsdelivr.net/npm/simple-icons@3/icons/
 [linkedin]: https://www.linkedin.com/in/jacobbudnick/
 [codewars]: https://www.codewars.com/users/Jbud/
 [Tableau]: https://public.tableau.com/profile/jacob.budnick#!/
+[email]: Jbudnick5@gmail.com
 
 <!--
 **Jbudnick/Jbudnick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -59,6 +51,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<details>
+    <summary>Recent Github Activity</summary>
+</details>
+
+<!--START_SECTION:activity-->
 -->
 
 
