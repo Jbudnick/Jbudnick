@@ -3,6 +3,8 @@
 [<img align="left" alt="Jbudnick | LinkedIn" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Jacob.Budnick | Tableau" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/tableau.svg" />][Tableau]
 [<img align="left" alt="Jbud | Codewars" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/codewars.svg" />][codewars]
+[<img align="left" alt="Jbud | Codewars" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/hackerrank.svg" />][HackerRank]
+<br />
 <br />
 ### Languages and Tools:
 [<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/python.svg" />][icons]
@@ -25,19 +27,7 @@
 [<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][icons]
 [<img align="left" alt="Windows" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/windows.svg" />][icons]
 [<img align="left" alt="Mac" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/apple.svg" />][icons]
-<<<<<<< HEAD
 <br />
-=======
-
----
-<details>
-    <summary>Recent Github Activity</summary>
-</details>
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com//Jbudnick/COVID-19-Colorado-Hispanic-Disparity/pull/1) in [Jbudnick/COVID-19-Colorado-Hispanic-Disparity](https://github.com//Jbudnick/COVID-19-Colorado-Hispanic-Disparity)
-<!--END_SECTION:activity-->
->>>>>>> d3331a5fdb49113a1e880b67b737df3894d0ce65
 ---
 <details>
   <summary>Github Stats</summary>
@@ -47,6 +37,7 @@
 [icons]: https://cdn.jsdelivr.net/npm/simple-icons@3/icons/
 [linkedin]: https://www.linkedin.com/in/jacobbudnick/
 [codewars]: https://www.codewars.com/users/Jbud/
+[HackerRank]: https://www.hackerrank.com/JBudnick
 [Tableau]: https://public.tableau.com/profile/jacob.budnick#!/
 [email]: Jbudnick5@gmail.com
 
