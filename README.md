@@ -10,7 +10,6 @@
 [<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/python.svg" />][icons]
 [<img align="left" alt="Pandas" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/pandas.svg" />][icons]
 [<img align="left" alt="Tableau" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/tableau.svg" />][Tableau]
-[<img align="left" alt="Spark" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/apachespark.svg" />][icons]
 [<img align="left" alt="AWS" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/amazonaws.svg" />][icons]
 [<img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/docker.svg" />][icons]
 [<img align="left" alt="Flask" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/flask.svg" />][icons]
@@ -22,6 +21,7 @@
 [<img align="left" alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/postgresql.svg" />][icons]
 [<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][icons]
 <br />
+[<img align="left" alt="Spark" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/apachespark.svg" />][icons]
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][icons]
 [<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][icons]
 [<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][icons]
