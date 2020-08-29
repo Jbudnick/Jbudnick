@@ -4,6 +4,7 @@
 [<img align="left" alt="Jacob.Budnick | Tableau" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/tableau.svg" />][Tableau]
 [<img align="left" alt="Jbud | Codewars" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/codewars.svg" />][codewars]
 [<img align="left" alt="Jbud | Codewars" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/hackerrank.svg" />][HackerRank]
+[<img align="left" alt="Jbud | Leetcoode" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/leetcode.svg" />][Leetcode]
 <br />
 <br />
 ### Languages and Tools:
@@ -47,6 +48,7 @@
 [linkedin]: https://www.linkedin.com/in/jacobbudnick/
 [codewars]: https://www.codewars.com/users/Jbud/
 [HackerRank]: https://www.hackerrank.com/JBudnick
+[Leetcode]: https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/leetcode.svg
 [Tableau]: https://public.tableau.com/profile/jacob.budnick#!/
 [email]: mailto:Jbudnick5@gmail.com
 
