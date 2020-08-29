@@ -48,7 +48,7 @@
 [linkedin]: https://www.linkedin.com/in/jacobbudnick/
 [codewars]: https://www.codewars.com/users/Jbud/
 [HackerRank]: https://www.hackerrank.com/JBudnick
-[Leetcode]: https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/leetcode.svg
+[Leetcode]: https://leetcode.com/jbud/
 [Tableau]: https://public.tableau.com/profile/jacob.budnick#!/
 [email]: mailto:Jbudnick5@gmail.com
 
