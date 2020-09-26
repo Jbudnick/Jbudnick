@@ -34,7 +34,7 @@
 <details>
     <summary>Recent Github Activity</summary>
     <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com//Jbudnick/COVID-19-Colorado-Hispanic-Disparity/pull/1) in [Jbudnick/COVID-19-Colorado-Hispanic-Disparity](https://github.com//Jbudnick/COVID-19-Colorado-Hispanic-Disparity)
+1. 💪 Opened PR [#1](https://github.com/Jbudnick/COVID-19-Colorado-Hispanic-Disparity/pull/1) in [Jbudnick/COVID-19-Colorado-Hispanic-Disparity](https://github.com/Jbudnick/COVID-19-Colorado-Hispanic-Disparity)
 <!--END_SECTION:activity-->
 </details>
 <br />
