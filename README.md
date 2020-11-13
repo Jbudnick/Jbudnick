@@ -30,12 +30,18 @@
 [<img align="left" alt="Mac" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/apple.svg" />][icons]
 <br />
 =======
+<details>
+    <summary>Current Projects</summary>
+    <br />
+    1. Interview Question Randomizer App<br />
+    2. Colorado Water and Soil Quality Investigation<br />
+    3. Financial Analysis and Prediction of Stock Prices<br />
+</details>
+<br />
 
 <details>
     <summary>Recent Github Activity</summary>
-    <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com//Jbudnick/COVID-19-Colorado-Hispanic-Disparity/pull/1) in [Jbudnick/COVID-19-Colorado-Hispanic-Disparity](https://github.com//Jbudnick/COVID-19-Colorado-Hispanic-Disparity)
-<!--END_SECTION:activity-->
+<!--START_SECTION:activity-->
 </details>
 <br />
 
