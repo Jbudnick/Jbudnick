@@ -35,16 +35,9 @@
     <br />
     1. Interview Question Randomizer App<br />
     2. Colorado Water and Soil Quality Investigation<br />
-    3. Financial Analysis and Prediction of Stock Prices<br />
+    3. Financial Analysis and Prediction of Stock Prices
 </details>
 <br />
-
-<details>
-    <summary>Recent Github Activity</summary>
-<!--START_SECTION:activity-->
-</details>
-<br />
-
 <details>
   <summary>Github Stats</summary>
     <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=jbudnick&show_icons=true&count_private=true" />
@@ -72,5 +65,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
