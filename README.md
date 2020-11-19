@@ -33,9 +33,8 @@
 <details>
     <summary>Current Projects</summary>
     <br />
-    1. Interview Question Randomizer App<br />
-    2. Colorado Water and Soil Quality Investigation<br />
-    3. Financial Analysis and Prediction of Stock Prices
+    1. Colorado Water and Soil Quality Investigation<br />
+    2. Financial Analysis and Prediction of Stock Prices
 </details>
 <br />
 <details>
